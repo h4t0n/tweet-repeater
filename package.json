@@ -1,0 +1,20 @@
+{
+  "name": "tweet-repeater",
+  "version": "1.0.0",
+  "description": "Repeat tweet(s) during the day (s)",
+  "main": "./lib/tweetRepeater.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tweet",
+    "twitter",
+    "schedule"
+  ],
+  "author": "Andrea Tarquini <tarquiniandreagm@gmail.com>",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "day-schedule": "^1.0.1",
+    "fast-tweet": "^1.0.1"
+  }
+}
